@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+h1 {
+  color:#33475c;
+}
+fieldset {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+fieldset:hover {
+  background-color: #33475c;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+ 
+}
+
+.App-header {
+  background-color: #eee;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: orangered;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
